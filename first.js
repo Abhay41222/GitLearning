@@ -5,3 +5,5 @@ console.log(login);
 
 const footer = "added a footer to the page";
 console.log(footer);
+const payment = "added a payment form to the page";
+console.log(payment);
