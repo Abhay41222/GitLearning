@@ -10,3 +10,5 @@ console.log(payment);
 
 const upi = "added a UPI payment option to the page";
 console.log(upi);
+
+console.log("added a new feature to the page");
