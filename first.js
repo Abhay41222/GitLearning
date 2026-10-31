@@ -12,3 +12,7 @@ const upi = "added a UPI payment option to the page";
 console.log(upi);
 
 console.log("added a new feature to the page");
+
+// I am fixing a bug in the code
+const bugFix = "fixed a bug in the code";
+console.log(bugFix);
